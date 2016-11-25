@@ -25,8 +25,8 @@ SECRET_KEY = 'hms(wp(0%7cbaeuvc7k_j_cqy(ehjo5)f!u@*=%pu-*5wvk=!t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['micaelamelo.pythonanywhere.com','127.0.0.1']
 
+ALLOWED_HOSTS = ['micaelamelo.pythonanywhere.com','127.0.0.1']
 
 # Application definition
 
